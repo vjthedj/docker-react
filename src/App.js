@@ -15,7 +15,7 @@ class App extends Component {
         alt = "logo" / >
             < p >
             Edit < code > src / App.js < /code> and save to reload.
-                                            HELLO
+                                            HELLO / BYE
         < /p>
         < a
         className = "App-link"
